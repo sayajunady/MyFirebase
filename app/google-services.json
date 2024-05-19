@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4629361960",
+    "project_id": "my-firebase-89c5c",
+    "storage_bucket": "my-firebase-89c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4629361960:android:04394b5834e27eff16cc1d",
+        "android_client_info": {
+          "package_name": "com.kopikode.myfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC00IfnNgtt7WDadkWMaxRuMoC9arZLtPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
